@@ -26,7 +26,7 @@ public class Mpdemo1010ApplicationTests {
     @Test
     public void addUser(){
         User user = new User();
-        user.setName("张三丰");
+        user.setName("张三丰333dev");
         user.setAge(100);
         user.setEmail("fghjk6789@qq.com");
 
