@@ -10,5 +10,6 @@ public class Mpdemo1010Application {
     public static void main(String[] args) {
         SpringApplication.run(Mpdemo1010Application.class,args);
         System.out.println("master11111111");
+        System.out.println("dev2222dev");
     }
 }
